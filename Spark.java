@@ -7,4 +7,9 @@ class Spark{
     {
         System.out.println("m1");
     }
+
+    public void notifyuser()
+    {
+        System.out.println("Hello user");
+    }
 }
